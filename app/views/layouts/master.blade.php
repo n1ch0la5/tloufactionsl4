@@ -11,13 +11,13 @@
 </head>
 <body>
     <header>
-        @yield('header')
+        @include('partials.header')
     </header>
     <main>
         @yield('content')
     </main>
     <footer class="row">
-        @yield('footer')
+         @include('partials.footer')
     </footer>
 <script>
 {{--foundation scripts--}}

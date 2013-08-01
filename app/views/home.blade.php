@@ -1,9 +1,5 @@
 @extends('layouts.master')
 
-@section('header')
-	@include('partials.header')
-@stop
-
 @section('content')
  <!-- First Band (Image) -->
 
@@ -36,8 +32,4 @@
     </div>
 	
     </div>
-@stop
-
-@section('footer')
-	@include('partials.footer')
 @stop
