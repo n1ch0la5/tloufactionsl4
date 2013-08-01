@@ -10,13 +10,16 @@
   <script src="js/vendor/custom.modernizr.js"></script>
 </head>
 <body>
-    @section('header')
-        <p>extra header content</p>
-    @show
-    @yield('content')
-    @yield('footer')
+    <header>
+        @yield('header')
+    </header>
+    <main>
+        @yield('content')
+    </main>
+    <footer class="row">
+        @yield('footer')
+    </footer>
 <script>
-
 {{--foundation scripts--}}
   document.write('<script src=' +
   ('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
