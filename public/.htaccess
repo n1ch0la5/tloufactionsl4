@@ -1,6 +1,8 @@
-AddType application/x-httpd-php54 .php
+
 <IfModule mod_rewrite.c>
 	
+	AddType application/x-httpd-php54 .php
+
 	Options -MultiViews
 	RewriteEngine On
 
