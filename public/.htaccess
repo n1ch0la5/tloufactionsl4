@@ -9,9 +9,3 @@
 	RewriteRule ^ index.php [L]
 
 </IfModule>
-<IfModule mod_mime.c>
-
-	#AllowOverride AuthConfig FileInfo
-	#AddType application/x-httpd-php54 .php
-
-</IfModule>
