@@ -1,0 +1,203 @@
+[02-Aug-2013 00:15:56 America/New_York] PHP Warning:  PHP Startup: timezonedb: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:15:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[02-Aug-2013 00:15:56 America/New_York] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:15:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 00:15:56 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:15:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 00:15:56 America/New_York] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:15:56 America/New_York] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:15:56 America/New_York] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[02-Aug-2013 00:15:58 America/New_York] PHP Warning:  PHP Startup: timezonedb: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:15:58 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[02-Aug-2013 00:15:58 America/New_York] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:15:58 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 00:15:58 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:15:58 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 00:15:58 America/New_York] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:15:58 America/New_York] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:15:58 America/New_York] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[02-Aug-2013 00:20:07 America/New_York] PHP Warning:  PHP Startup: timezonedb: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:20:07 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[02-Aug-2013 00:20:07 America/New_York] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:20:07 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 00:20:07 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:20:07 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 00:20:07 America/New_York] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:20:07 America/New_York] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:20:07 America/New_York] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[02-Aug-2013 00:21:56 America/New_York] PHP Warning:  PHP Startup: timezonedb: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:21:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[02-Aug-2013 00:21:56 America/New_York] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:21:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 00:21:56 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:21:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 00:21:56 America/New_York] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:21:56 America/New_York] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:21:57 America/New_York] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[02-Aug-2013 00:21:58 America/New_York] PHP Warning:  PHP Startup: timezonedb: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:21:58 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[02-Aug-2013 00:21:58 America/New_York] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:21:58 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 00:21:58 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:21:58 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 00:21:58 America/New_York] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:21:58 America/New_York] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 00:21:58 America/New_York] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[02-Aug-2013 09:42:09 America/New_York] PHP Warning:  PHP Startup: timezonedb: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: timezonedb: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: OAuth: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Aug-2013 09:42:11 America/New_York] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0

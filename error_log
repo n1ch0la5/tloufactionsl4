@@ -1,0 +1,1 @@
+[02-Aug-2013 00:28:56 America/New_York] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in phar:///home/twoguys1/public_html/tloufactions/composer.phar/src/Composer/Repository/ComposerRepository.php on line 276
