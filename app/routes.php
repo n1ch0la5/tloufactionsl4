@@ -2,5 +2,5 @@
 
 Route::get('/', function()
 {
-	return View::make('coming');
+	return View::make('home');
 });
