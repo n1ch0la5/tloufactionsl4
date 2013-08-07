@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>TLOU Factions - A The Last of Us Multiplayer Fansite</title>
     <meta name="viewport" content="width=device-width" />
     {{--foundation css--}}
     <link rel="stylesheet" href="/css/normalize.css" />

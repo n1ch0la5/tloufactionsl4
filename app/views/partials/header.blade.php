@@ -4,7 +4,7 @@
       <!-- Title Area -->
       <li class="name">
         <h1>
-          <a href="#">
+          <a href="/">
             TLOUFACTIONS.COM
           </a>
         </h1>
@@ -15,7 +15,7 @@
       <!-- Right Nav Section -->
       <ul class="right">
         <li class="divider"></li>
-        <li><a href="#">Loadout Builder</a></li>
+        <li><a href="/loadout-builder/">Loadout Builder</a></li>
         <li class="divider"></li>
         <li class="has-dropdown">
           <a href="#">Database</a>

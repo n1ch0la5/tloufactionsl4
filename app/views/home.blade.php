@@ -14,6 +14,7 @@
          <div class="small-2 columns">
             <button class="button postfix radius">Search</button>
          </div>
+          {{ Form::close() }}
       </div>
     </div>
   </div>

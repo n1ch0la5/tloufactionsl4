@@ -1,0 +1,22 @@
+@extends('layouts.master')
+
+@section('content')
+ <!-- First Band (Image) -->
+
+  <div class="row">
+    <div class="large-6 large-centered columns">
+     <!-- <img src="/images/header_image.jpg">-->
+     {{ Form::open(array('url' => 'search', 'id' => 'form_search')) }}
+      <div class="row collapse">
+        <div class="small-10 columns">
+          {{ Form::text('search', null, array('placeholder' => 'Search...'))}}
+        </div>
+         <div class="small-2 columns">
+            <button class="button postfix radius">Search</button>
+         </div>
+      </div>
+    </div>
+  </div>
+<!-- Three-up Content Blocks -->
+ 
+@stop
