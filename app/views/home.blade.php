@@ -9,10 +9,10 @@
      {{ Form::open(array('url' => 'search', 'id' => 'form_search')) }}
       <div class="row collapse">
         <div class="small-10 columns">
-          {{ Form::text('search', null, array('placeholder' => 'Search'))}}
+          {{ Form::text('search', null, array('placeholder' => 'Search...'))}}
         </div>
          <div class="small-2 columns">
-            <a class="button postfix radius">Search</a>
+            <button class="button postfix radius">Search</button>
          </div>
       </div>
     </div>
