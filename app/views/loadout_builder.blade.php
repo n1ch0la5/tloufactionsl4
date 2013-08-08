@@ -6,6 +6,9 @@
   <div class="row">
     <div class="large-12 large-centered columns">
       <h1>Loadout Builder</h1>
+
+      {{ print_r($weapons) }}
+      
     </div>
   </div>
   <div class="row">
